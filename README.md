@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ahmad Faraz Khan
+# 👋 Hi, I'm Ahmad Faraz Khan  
 
-### 💻 Frontend Web Developer | React.js Enthusiast | Software Engineer
+### 💻 Frontend Web Developer | React.js Developer | Software Engineer  
 
 📍 Nowshera, Pakistan  
 📧 khanahmadfaraz82@gmail.com  
@@ -10,86 +10,92 @@
 
 ## 🚀 About Me
 
-I am a results-driven Frontend Web Developer with a Bachelor’s degree in Software Engineering from COMSATS University Islamabad (2021–2025).  
+I am a results-driven Frontend Web Developer with a Bachelor’s degree in Software Engineering from COMSATS University Islamabad (2021–2025).
 
-I specialize in building modern, responsive, and user-friendly web applications using React.js and modern JavaScript frameworks. I enjoy turning complex problems into simple, interactive, and visually appealing UI experiences.
+I specialize in building modern, responsive, and interactive web applications using React.js, JavaScript, and modern frontend technologies. I focus on clean UI/UX, performance optimization, and scalable architecture.
 
 ---
 
 ## 🧠 Skills & Technologies
 
-### 💡 Frontend Development
-- React.js, Next.js, TypeScript  
-- HTML5, CSS3, JavaScript (ES6+)  
-- Context API, Responsive Design  
-- UI/UX Implementation, Web Accessibility  
+### 💡 Frontend
+React.js • Next.js • TypeScript • JavaScript (ES6+)  
+HTML5 • CSS3 • Responsive Design • Context API  
+UI/UX Implementation • Web Accessibility  
 
 ### ⚙️ Backend & Database
-- Node.js, MySQL  
-- REST APIs, Firebase  
-- C++ Programming  
+Node.js • MySQL • Firebase • REST APIs  
+C++ Programming  
 
 ### 🛠 Tools & Workflow
-- Git & GitHub  
-- GitHub Actions (CI/CD)  
-- Agile / Scrum  
-- npm, yarn, npx  
-- Code Reviews & Documentation  
-- MVC / MVVM Design Patterns  
+Git • GitHub • GitHub Actions (CI/CD)  
+Agile • Scrum • npm/yarn  
+Design Patterns (MVC, MVVM, Repository)  
+Code Splitting • Lazy Loading  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🐍 Snake Game (React.js)
-Built a fully functional Snake Game using React.js and HTML5 Canvas.  
-- Smooth snake movement and collision detection  
-- Dynamic food generation  
-- Score tracking system  
-- Restart functionality  
-- Optimized real-time keyboard controls  
+- Smooth snake movement with collision detection  
+- Dynamic food generation system  
+- Score tracking + restart functionality  
+- HTML5 Canvas based rendering  
 
 ---
 
 ### 🌦 Weather App (React.js)
-A modern weather application using OpenWeatherMap API.  
-- Live weather data by city search  
-- Dynamic animated background (rain, clouds, night/day)  
-- Responsive and clean UI  
-- Real-time UI updates  
+- Live weather data using OpenWeatherMap API  
+- City-based search functionality  
+- Dynamic animated background (rain, clouds, day/night)  
+- Responsive modern UI  
 
 ---
 
 ### 🧱 Brick Breaker Game (React.js)
-Classic arcade-style game built with React and Canvas.  
-- Paddle and ball physics  
-- Brick collision system  
-- Smooth animations  
-- Keyboard controls  
-- Fully responsive game design  
+- Classic arcade gameplay using React + Canvas  
+- Paddle and ball physics system  
+- Brick collision detection  
+- Smooth animations and controls  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 ---
 
 ## 🎯 What I Do Best
-- Building responsive React.js applications  
-- Creating interactive UI/UX experiences  
-- Turning logic into real-time web applications  
-- Writing clean and maintainable code  
+- Build modern React.js applications  
+- Create interactive UI/UX experiences  
+- Solve real-world logic problems  
+- Develop scalable frontend architectures  
 
 ---
 
-## 📈 Goals
-- Become a senior frontend developer  
-- Master Next.js and scalable architectures  
-- Contribute to open-source projects  
-- Build production-level SaaS applications  
+## 🌐 Connect With Me
+
+📧 Email: khanahmadfaraz82@gmail.com  
+📍 Location: Nowshera, Pakistan  
 
 ---
 
-## 🌐 Let's Connect
-- 📧 Email: khanahmadfaraz82@gmail.com  
-- 📍 Location: Nowshera, Pakistan  
+## ⭐ Quote
 
----
-
-⭐ *"Code is not just syntax, it's problem solving in motion."*
+> "Code is not just syntax — it's creativity, logic, and problem solving combined."
